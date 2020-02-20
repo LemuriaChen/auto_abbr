@@ -7,6 +7,6 @@ setup(
     py_modules=['abbr'],
     author='dandanlemuria',
     author_email='18110980003@fudan.edu.cn',
+    url='https://github.com/LemuriaChen/auto_abbr',
     description='a list of abbreviations for a given string', requires=['requests', 'lxml']
 )
-
